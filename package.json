@@ -1,11 +1,11 @@
 {
-  "name": "levanter",
+  "name": "Imran",
   "version": "3.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name levanter",
-    "stop": "pm2 stop levanter",
+    "start": "pm2 start . --attach --name Imran",
+    "stop": "pm2 stop Salara",
     "postinstall": "node -e \"try { require('sharp') } catch (e) { process.exit(1); }\" || yarn add --ignore-engines sharp@0.33.5"
   },
   "author": "",
